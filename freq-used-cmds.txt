@@ -1,5 +1,7 @@
+# Powershell Commands
 Remove-Item -Recurse -Force {foldername}
 
+# CDK Commands
 npm install -g aws-cdk
 
 cdk init --language typescript
