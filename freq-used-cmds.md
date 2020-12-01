@@ -20,3 +20,12 @@ aws s3 sync static/ s3://{bucket-name} --acl public-read<br>
 
 **list content of bucket**<br>
 aws s3 ls s3://{bucket-name}<br>
+
+###  git
+#### github hub
+**created private repository**<br>
+hub create -p<br>
+
+**push branch to newly created repository**<br>
+git push --set-upstream origin master<br>
+
