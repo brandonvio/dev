@@ -29,3 +29,9 @@ hub create -p<br>
 **push branch to newly created repository**<br>
 git push --set-upstream origin master<br>
 
+###  SSH
+**Create an SSH key**<br>
+ssh-keygen -t rsa -b 4096 -C "{email}"<br>
+
+**Add key**<br>
+ssh-add id_rsa
