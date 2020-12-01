@@ -1,3 +1,5 @@
 Remove-Item -Recurse -Force {foldername}
 
 npm install -g aws-cdk
+
+cdk init --language typescript
