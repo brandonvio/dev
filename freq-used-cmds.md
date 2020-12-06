@@ -46,5 +46,9 @@ sudo nmap -sTU -O IP-address-Here<br>
 
 
 ### Jenkins
-#### Restart Jenkins
+**Restart Jenkins**<br>
 sudo /etc/init.d/jenkins restart<br>
+
+**Get initial password**<br>
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+
