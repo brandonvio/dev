@@ -37,3 +37,9 @@ ssh-keygen -t rsa -b 4096 -C "{email}"<br>
 
 **Add key**<br>
 ssh-add id_rsa
+
+### Ports
+sudo lsof -i -P -n | grep LISTEN<br>
+sudo netstat -tulpn | grep LISTEN<br>
+sudo lsof -i:22 ## see a specific port such as 22 ##<br>
+sudo nmap -sTU -O IP-address-Here<br>
