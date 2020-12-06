@@ -43,3 +43,8 @@ sudo lsof -i -P -n | grep LISTEN<br>
 sudo netstat -tulpn | grep LISTEN<br>
 sudo lsof -i:22 ## see a specific port such as 22 ##<br>
 sudo nmap -sTU -O IP-address-Here<br>
+
+
+### Jenkins
+#### Restart Jenkins
+sudo /etc/init.d/jenkins restart<br>
