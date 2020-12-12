@@ -10,7 +10,7 @@ npm install -g aws-cdk
 cdk init --language typescript<br>
 
 **Most common used CDK modules**<br>
-npm install @aws-cdk/aws-s3 @aws-cdk/aws-dynamodb @aws-cdk/aws-cloudfront @aws-cdk/aws-route53 @aws-cdk/aws-cognito @aws-cdk/aws-ec2 @aws-cdk/aws-cloudfront-origins @aws-cdk/aws-elasticloadbalancingv2 @aws-cdk/aws-elasticloadbalancingv2-targets @aws-cdk/aws-route53 @aws-cdk/aws-certificatemanager @aws-cdk/aws-route53-targets @aws-cdk/aws-msk<br>
+npm install @aws-cdk/aws-s3 @aws-cdk/aws-dynamodb @aws-cdk/aws-cloudfront @aws-cdk/aws-route53 @aws-cdk/aws-cognito @aws-cdk/aws-ec2 @aws-cdk/aws-cloudfront-origins @aws-cdk/aws-elasticloadbalancingv2 @aws-cdk/aws-elasticloadbalancingv2-targets @aws-cdk/aws-route53 @aws-cdk/aws-certificatemanager @aws-cdk/aws-route53-targets @aws-cdk/aws-msk @aws-cdk/aws-codepipeline<br>
 
 ###  AWS
 #### AWS CLI commands
