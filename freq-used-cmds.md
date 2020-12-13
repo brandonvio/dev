@@ -2,9 +2,13 @@
 **Remove folder and all files recursively**<br>
 Remove-Item -Recurse -Force {folder-name}<br>
 
+### Installs
+**TypeScript**
+npm install -g typescript<br>
+npm install -g aws-cdk
+
 ###  CDK Commands
 **Install the AWS CDK**<br>
-npm install -g aws-cdk
 
 **Initialize CDK project**<br>
 cdk init --language typescript<br>
