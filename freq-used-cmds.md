@@ -3,7 +3,7 @@
 Remove-Item -Recurse -Force {folder-name}<br>
 
 ### Installs
-**TypeScript**
+**TypeScript**<br>
 npm install -g typescript<br>
 npm install -g aws-cdk
 
