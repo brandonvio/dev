@@ -3,9 +3,6 @@
 [AWS Jenkins](https://build.rythm.cc/login?from=%2F)<br>
 [Kafka](https://login.confluent.io/login?state=g6Fo2SBlSTBhaTlTRlNvUUViQmVsV0pjXzhrZk5ZTE9VUHBrcaN0aWTZIHJFQUtobVlEaUlQTjUxYjFlalNJWmtWWktNN3htdGYzo2NpZNkgbDJoT3AwUzB0a1NCMFRGdHZJWWZaWjlFYUtGdnJTYzY&client=l2hOp0S0tkSB0TFtvIYfZZ9EaKFvrSc6&protocol=oauth2&response_type=id_token&redirect_uri=https%3A%2F%2Fconfluent.cloud%2Fauth_callback&nonce=Ik.mzhx2hxlwDSKCz7Kjmus5hDKAjscG&scope=openid%20profile%20email&auth0Client=eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOS4xNC4wIn0%3D)<br>
 
-
-<a href="http://example.com/" target="new">Hello, world!</a><br>
-
 ### Powershell Commands
 **Remove folder and all files recursively**<br>
 Remove-Item -Recurse -Force {folder-name}<br>
