@@ -7,6 +7,8 @@
 ### Java
 **Java Home**<br>
 /Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home<br>
+brew install maven<br>
+brew install gradle<br>
 
 ### Powershell Commands
 **Remove folder and all files recursively**<br>
