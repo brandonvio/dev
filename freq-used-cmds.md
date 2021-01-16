@@ -1,3 +1,7 @@
+### Dev Resources
+[Azure Jenkins](ops-server.westus2.cloudapp.azure.com:8080/login?from=%2F)<br>
+[AWS Jenkins](https://build.rythm.cc/login?from=%2F)<br>
+
 ### Powershell Commands
 **Remove folder and all files recursively**<br>
 Remove-Item -Recurse -Force {folder-name}<br>
