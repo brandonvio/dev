@@ -1,6 +1,6 @@
 ### Dev Resources
-[Azure Jenkins](http://ops-server.westus2.cloudapp.azure.com:8080/login?from=%2F)<br>
-[AWS Jenkins](https://build.rythm.cc/login?from=%2F)<br>
+[Jenkins - Azure](http://ops-server.westus2.cloudapp.azure.com:8080/login?from=%2F)<br>
+[Jenkins - AWS](https://build.rythm.cc/login?from=%2F)<br>
 [Kafka](https://login.confluent.io/login?state=g6Fo2SBlSTBhaTlTRlNvUUViQmVsV0pjXzhrZk5ZTE9VUHBrcaN0aWTZIHJFQUtobVlEaUlQTjUxYjFlalNJWmtWWktNN3htdGYzo2NpZNkgbDJoT3AwUzB0a1NCMFRGdHZJWWZaWjlFYUtGdnJTYzY&client=l2hOp0S0tkSB0TFtvIYfZZ9EaKFvrSc6&protocol=oauth2&response_type=id_token&redirect_uri=https%3A%2F%2Fconfluent.cloud%2Fauth_callback&nonce=Ik.mzhx2hxlwDSKCz7Kjmus5hDKAjscG&scope=openid%20profile%20email&auth0Client=eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOS4xNC4wIn0%3D)<br>
 
 ### Powershell Commands
