@@ -1,5 +1,5 @@
 ### Dev Resources
-[Azure Jenkins](ops-server.westus2.cloudapp.azure.com:8080/login?from=%2F)<br>
+[Azure Jenkins](http://ops-server.westus2.cloudapp.azure.com:8080/login?from=%2F)<br>
 [AWS Jenkins](https://build.rythm.cc/login?from=%2F)<br>
 
 ### Powershell Commands
