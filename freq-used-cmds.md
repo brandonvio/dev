@@ -4,6 +4,14 @@
 [Kafka](https://login.confluent.io/login?state=g6Fo2SBlSTBhaTlTRlNvUUViQmVsV0pjXzhrZk5ZTE9VUHBrcaN0aWTZIHJFQUtobVlEaUlQTjUxYjFlalNJWmtWWktNN3htdGYzo2NpZNkgbDJoT3AwUzB0a1NCMFRGdHZJWWZaWjlFYUtGdnJTYzY&client=l2hOp0S0tkSB0TFtvIYfZZ9EaKFvrSc6&protocol=oauth2&response_type=id_token&redirect_uri=https%3A%2F%2Fconfluent.cloud%2Fauth_callback&nonce=Ik.mzhx2hxlwDSKCz7Kjmus5hDKAjscG&scope=openid%20profile%20email&auth0Client=eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOS4xNC4wIn0%3D)<br>
 [Diagrams](https://lucid.app/documents#/dashboard)
 
+### Python
+#### Jupyter
+Start jupyter on server - headless  
+nohup jupyter notebook --no-browser --port=8888 &  
+
+Port forward from workstation  
+ssh -L 8888:localhost:8888 brandon@20.69.90.222  
+
 ### Java
 **Java Home**<br>
 /Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home<br>
