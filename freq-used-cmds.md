@@ -11,6 +11,8 @@ nohup jupyter notebook --no-browser --port=8888 &
 
 Port forward from workstation  
 ssh -L 8888:localhost:8888 brandon@20.69.90.222  
+[running notebook on server](https://towardsdatascience.com/running-jupyter-notebooks-on-remote-servers-603fbcc256b3)  
+
 
 ### Java
 **Java Home**<br>
