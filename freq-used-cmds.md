@@ -7,6 +7,11 @@
 ### shell
 echo -n "username:123123adsfasdf123123" | base64  
 
+### docker
+docker exec -it 4d57d3707009 /bin/bash  
+
+### postgresql
+psql -d rythm -U postgres  
 
 ### Python
 #### Jupyter
