@@ -1,3 +1,4 @@
+// Binary Heap - Integer Min Heap
 // An IntHeap is a min-heap of ints.
 type IntHeap []int
 
@@ -21,5 +22,5 @@ func (h *IntHeap) Pop() interface{} {
 
 func (h *IntHeap) Peak() interface{} {
     q := *h
-	return q[0]
+    return q[0]
 }
